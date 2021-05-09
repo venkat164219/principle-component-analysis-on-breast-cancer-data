@@ -14,7 +14,7 @@ get_ipython().run_line_magic('matplotlib', 'inline')
 # In[4]:
 
 
-from sklearn.datasets import load_breast_cancer
+from sklearn.datasets import load_breast_cancer#cancer data that we have in sklearn
 
 
 # In[10]:
